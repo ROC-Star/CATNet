@@ -3,9 +3,11 @@
 ## Network Architecture
 ![fig1.png](figs/Snipaste_2022-12-23_21-51-05.png)
 ## Requirements
-python 3.9 
-pytorch 1.11.0
-tensorboardX 2.5
+**python 3.9** 
+
+**pytorch 1.11.0**
+
+**tensorboardX 2.5**
 ## Results and Saliency maps
 We provide saliency maps([baidu (code:)](https://note.youdao.com/) | [Google Drive](https://note.youdao.com/)) of our CATNet on 7 datasets(NLPR,NJU2K,STERE,SIP,LFSD,DUT-RGBD,RGB135).
 We Perform Quantitative Comparisons  With CNN-Based RGB-D SOD
