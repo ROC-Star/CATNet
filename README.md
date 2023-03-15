@@ -10,10 +10,6 @@ tensorboardX 2.5
 We provide saliency maps([baidu (code:)](https://note.youdao.com/) | [Google Drive](https://note.youdao.com/)) of our CATNet on 7 datasets.
 We Perform Quantitative Comparisons  With CNN-Based RGB-D SOD
 Methods On Seven  RGB-D Datasets.
-![snipaste_2022-12-23_21-18-58.png](figs/Snipaste_2022-12-23_21-18-58.png)
-We Perform Quantitative Comparisons  With Transformer-Based RGB-D SOD
-Methods On Seven  RGB-D Datasets.
-![snipaste_2022-12-23_21-18-50.png](figs/Snipaste_2022-12-23_21-18-50.png)
 ## Training
 Please run 
 ```
