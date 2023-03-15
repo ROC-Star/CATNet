@@ -1,7 +1,5 @@
-# **CATNet: A Cascaded and Aggreated Vision Transformer Network for RGB-D Salient Object Detection**
-
+# 
 ## Network Architecture
-![fig1.png](figs/Snipaste_2022-12-23_21-51-05.png)
 ## Requirements
 python 3.9
 
