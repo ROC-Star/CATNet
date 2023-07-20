@@ -1,5 +1,7 @@
 # 
 ## Network Architecture
+![](./figs/Overview.png)
+
 ## Requirements
 python 3.9
 
@@ -7,9 +9,7 @@ pytorch 1.11.0
 
 tensorboardX 2.5
 ## Results and Saliency maps
-We provide saliency maps([baidu (code:)](https://note.youdao.com/) | [Google Drive](https://note.youdao.com/)) of our CATNet on 7 datasets.
-We Perform Quantitative Comparisons  With CNN-Based RGB-D SOD
-Methods On Seven  RGB-D Datasets.
+We provide saliency maps([Google Drive](https://drive.google.com/drive/folders/1DZGmNBl3jZBGexlosbWcrhQYQtWdE2Bv?usp=drive_link/)) of our CATNet on 7 datasets.
 ## Training
 Please run 
 ```
@@ -23,10 +23,7 @@ CatNet_train.py
 CatNet_test.py
 ```
 Datasets:
-[Baidu(code:)](https://note.youdao.com/) | [Google Drive](https://note.youdao.com/)
-
-Our pre-trained models(CATNet):
-[Baidu(code:)](https://note.youdao.com/) | [Google Drive](https://note.youdao.com/)
+[Google Drive](https://drive.google.com/file/d/1ZF94G7ZwRo7M5M2qegvY_BYbwdN17mwk/view?usp=drive_link)
 
 
 

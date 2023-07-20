@@ -9,15 +9,14 @@ import os
 import torch
 import torch.nn.functional as F
 import sys
-from tqdm import tqdm
 
 sys.path.append('./models')
 import numpy as np
 from datetime import datetime
 from models.CatNet import CatNet
 from torchvision.utils import make_grid
-from data import get_loader, test_dataset
-from utils import clip_gradient, adjust_lr
+from tools.data import get_loader, test_dataset
+from tools.utils import clip_gradient, adjust_lr
 from tensorboardX import SummaryWriter
 import logging
 import torch.backends.cudnn as cudnn
@@ -51,15 +50,12 @@ logging.info("CATNet-Train_4_pairs")
 model = CatNet()
 
 num_parms = 0
-""""
-because modify renet101 srtr,so no use pretrain 
 
-"""
 if (opt.load is not None):
     model.load_pre(opt.load)
     print('load model from ', opt.load)
 
-# model = torch.nn.DataParallel(model)
+
 model.cuda()
 
 params = model.parameters()

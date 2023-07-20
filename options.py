@@ -26,5 +26,5 @@ parser.add_argument('--test_rgb_root', type=str, default='./RGBD_train/val/RGB/'
 parser.add_argument('--test_depth_root', type=str, default='./RGBD_train/val/depth/', help='the test gt images root')
 parser.add_argument('--test_gt_root', type=str, default='./RGBD_train/val/GT/', help='the test gt images root')
 parser.add_argument('--test_edge_root', type=str, default='./RGBD_train/val/Edge/', help='the test edge images root')
-parser.add_argument('--save_path', type=str, default='./cpts/', help='the path to save models and logs')
+parser.add_argument('--save_path', type=str, default='./checkpoints/ckpt/', help='the path to save models and logs')
 opt = parser.parse_args()

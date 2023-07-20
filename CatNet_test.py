@@ -14,7 +14,7 @@ import os, argparse
 import cv2
 from models.CatNet import CatNet
 # from cpts4.Swin_Transformer import SwinNet
-from data import test_dataset
+from tools.data import test_dataset
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--testsize', type=int, default=384, help='testing size')
