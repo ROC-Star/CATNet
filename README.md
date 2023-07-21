@@ -1,5 +1,5 @@
 # CATNet: A Cascaded and Aggregated Transformer Network For RGB-D Salient Object Detection
-The paper has been online published by IEEE Transactions Multimedia. 
+The paper has been online published by IEEE Transactions on Multimedia. 
 
 ![](./figs/Overview.png)
 
