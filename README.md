@@ -1,16 +1,5 @@
 # CATNet: A Cascaded and Aggregated Transformer Network For RGB-D Salient Object Detection
 The paper has been online published by IEEE Transactions Multimedia. 
-```
-@ARTICLE{10179145,
-  author={Sun, Fuming and Ren, Peng and Yin, Bowen and Wang, Fasheng and Li, Haojie},
-  journal={IEEE Transactions on Multimedia}, 
-  title={CATNet: A Cascaded and Aggregated Transformer Network For RGB-D Salient Object Detection}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-14},
-  doi={10.1109/TMM.2023.3294003}}
-```
 ![](./figs/Overview.png)
 
 ## Requirements
@@ -36,5 +25,17 @@ CatNet_test.py
 Datasets:
 [Google Drive](https://drive.google.com/file/d/1ZF94G7ZwRo7M5M2qegvY_BYbwdN17mwk/view?usp=drive_link)
 
+# Citation
+```
+@article{10179145,
+  author={Sun, Fuming and Ren, Peng and Yin, Bowen and Wang, Fasheng and Li, Haojie},
+  journal={IEEE Transactions on Multimedia}, 
+  title={CATNet: A Cascaded and Aggregated Transformer Network For RGB-D Salient Object Detection}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TMM.2023.3294003}}
+```
 
 If you anywhere questions, please tell me([724162106@qq.com]).
