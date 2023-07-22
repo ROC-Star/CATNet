@@ -27,7 +27,7 @@ Datasets:
 [Google Drive](https://drive.google.com/file/d/1ZF94G7ZwRo7M5M2qegvY_BYbwdN17mwk/view?usp=drive_link)
 
 ## Citation
-
+If you find this work is useful for your research, please cite our paper:
 ```
 @article{10179145,
   author={Sun, Fuming and Ren, Peng and Yin, Bowen and Wang, Fasheng and Li, Haojie},
