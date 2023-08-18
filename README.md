@@ -10,7 +10,7 @@ pytorch 1.11.0
 
 tensorboardX 2.5
 ## Results and Saliency maps
-We provide saliency maps([Google Drive](https://drive.google.com/drive/folders/1DZGmNBl3jZBGexlosbWcrhQYQtWdE2Bv?usp=drive_link/)) of our CATNet on 7 datasets.
+We provide [saliency maps](https://drive.google.com/drive/folders/1DZGmNBl3jZBGexlosbWcrhQYQtWdE2Bv?usp=drive_link/) of our CATNet on 7 datasets.
 ## Training
 Please run 
 ```
@@ -23,8 +23,9 @@ CatNet_train.py
 ```
 CatNet_test.py
 ```
-Datasets:
-[Google Drive](https://drive.google.com/file/d/1ZF94G7ZwRo7M5M2qegvY_BYbwdN17mwk/view?usp=drive_link)
+## Downloading Training and Testing Datasets:
+- Download the [training set](https://drive.google.com/file/d/1BPt09rbgSYQcu0LpQoKSNVgXA3aYvkF7/view?usp=drive_link) used for training.
+- Download the [testing sets](https://drive.google.com/file/d/1wAVNEYDrTZK7oWB4J-3MTXmAo1AsVZCj/view?usp=drive_link) used for testing.
 
 ## Citation
 If you find this work is useful for your research, please cite our paper:
@@ -40,4 +41,4 @@ If you find this work is useful for your research, please cite our paper:
   doi={10.1109/TMM.2023.3294003}}
 ```
 
-If you anywhere questions, please tell me([724162106@qq.com]).
+If you anywhere questions, please tell me 724162106@qq.com.
