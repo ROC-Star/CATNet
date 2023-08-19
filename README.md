@@ -10,7 +10,7 @@ pytorch 1.11.0
 
 tensorboardX 2.5
 ## Results and Saliency maps
-We provide [saliency maps](https://drive.google.com/drive/folders/1DZGmNBl3jZBGexlosbWcrhQYQtWdE2Bv?usp=drive_link/) of our CATNet on 7 datasets.
+We provide [saliency maps](https://drive.google.com/file/d/1USRmpamaV5RJyI3iWp3J12bIZ0i-kbjr/view?usp=drive_link) of our CATNet on 7 datasets.
 ## Training
 Please run 
 ```
